@@ -39,8 +39,8 @@ class MyFrame(wx.Frame):
         print('选择{0},状态{1}'.format(cb.GetLabel(),event.IsChecked()))
     
     def on_radio1_click(self,event):
-        rb = event.GetEventObeject()
-        print('第一组{0}被选中'.format(rb.Getlabel()))
+        rb = event.GetEventObject()
+        print('第一组{0}被选中'.format(rb.GetLabel()))
 
 app = wx.App() # 创建应用程序对象
 frm = MyFrame() # 创建窗口对象
