@@ -1,4 +1,10 @@
+
+# 官方资料地址(2022.07.05)
+http://www.broadview.com.cn/book/6446
+
+# 视频讲解网站观看地址
+https://www.bilibili.com/video/av798903482/
+
 # 漫画学python代码
 - 书在wps网盘上
 
-# 计算水仙花个数-20220701
